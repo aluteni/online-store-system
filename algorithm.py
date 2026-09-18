@@ -255,6 +255,9 @@ class OnlineStore:
         )
 
 
+
+store = OnlineStore("Brightmart")
+
 def seedData(store):
     store.addProduct(Electronic("Phone", 4500.00, 10, 12))
     store.addProduct(Electronic("Laptop", 12000.00, 5, 24))
@@ -263,12 +266,11 @@ def seedData(store):
 
 
 def showCatalog(store):
-    print("\n--- BrightMart Catalog ---")
     for product in store.products:
         product.displayInfo()
 
 
-def registerCustomerFlow(store):
+def registerCustomer(store):
     name = input("Customer name: ")
     email = input("Customer email: ")
     customer = Customer(name, email)
@@ -301,4 +303,4 @@ def selectPayment():
         return CreditCard(0.0, date.today(), card_number)
     elif method == "mobile":
         phone_number = input("Phone number (10 digits): ")
-        return MobileMoney(0.0, date.today())
+        return MobileMoney(0.0, date.today(), phone_number)
