@@ -1,0 +1,1956 @@
+[
+    {
+        "id": 4000,
+        "date": "15/09/2026",
+        "customer_id": 1010,
+        "customer": {
+            "id": 1010,
+            "name": "Rauna Haufiku",
+            "email": "rauna.haufiku@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3025,
+                "name": "plain yoghurt 1kg",
+                "price": 44.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3041,
+                "name": "hisense 43-inch television",
+                "price": 5499.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2000,
+            "type": "mobile money",
+            "amount": 4990.48,
+            "status": "approved",
+            "date": "15/09/2026",
+            "reference": "0811590830"
+        }
+    },
+    {
+        "id": 4001,
+        "date": "02/10/2026",
+        "customer_id": 1002,
+        "customer": {
+            "id": 1002,
+            "name": "Maria Nghipandulwa",
+            "email": "maria.nghipandulwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3004,
+                "name": "cooking oil 750ml",
+                "price": 42.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3015,
+                "name": "potatoes 2kg",
+                "price": 34.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3005,
+                "name": "sugar 2kg",
+                "price": 39.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3035,
+                "name": "lenovo ideapad laptop",
+                "price": 9999.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2001,
+            "type": "mobile money",
+            "amount": 9216.84,
+            "status": "approved",
+            "date": "02/10/2026",
+            "reference": "0819099603"
+        }
+    },
+    {
+        "id": 4002,
+        "date": "28/09/2026",
+        "customer_id": 1001,
+        "customer": {
+            "id": 1001,
+            "name": "Fredrick Shikongo",
+            "email": "fredrick.shikongo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3018,
+                "name": "canned beans 410g",
+                "price": 14.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3026,
+                "name": "corn flakes 750g",
+                "price": 64.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2002,
+            "type": "credit card",
+            "amount": 209.96,
+            "status": "approved",
+            "date": "28/09/2026",
+            "reference": "4821993518190937"
+        }
+    },
+    {
+        "id": 4003,
+        "date": "28/09/2026",
+        "customer_id": 1021,
+        "customer": {
+            "id": 1021,
+            "name": "Paulus Namupala",
+            "email": "paulus.namupala@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3049,
+                "name": "logitech wireless keyboard",
+                "price": 699.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3020,
+                "name": "peanut butter 400g",
+                "price": 39.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3029,
+                "name": "samsung galaxy a56 smartphone",
+                "price": 7499.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3037,
+                "name": "dell inspiron laptop",
+                "price": 11999.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2003,
+            "type": "mobile money",
+            "amount": 28479.93,
+            "status": "approved",
+            "date": "28/09/2026",
+            "reference": "0813194875"
+        }
+    },
+    {
+        "id": 4004,
+        "date": "01/10/2026",
+        "customer_id": 1023,
+        "customer": {
+            "id": 1023,
+            "name": "Simon Ndjamba",
+            "email": "simon.ndjamba@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3038,
+                "name": "asus vivobook laptop",
+                "price": 10999.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3004,
+                "name": "cooking oil 750ml",
+                "price": 42.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3007,
+                "name": "cheddar cheese 500g",
+                "price": 89.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2004,
+            "type": "mobile money",
+            "amount": 33175.94,
+            "status": "approved",
+            "date": "01/10/2026",
+            "reference": "0812760189"
+        }
+    },
+    {
+        "id": 4005,
+        "date": "17/09/2026",
+        "customer_id": 1025,
+        "customer": {
+            "id": 1025,
+            "name": "Kaleb Shivute",
+            "email": "kaleb.shivute@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3021,
+                "name": "ground coffee 200g",
+                "price": 84.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3044,
+                "name": "nintendo switch console",
+                "price": 5999.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3022,
+                "name": "rooibos tea 80 bags",
+                "price": 49.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2005,
+            "type": "mobile money",
+            "amount": 12404.92,
+            "status": "approved",
+            "date": "17/09/2026",
+            "reference": "0811147104"
+        }
+    },
+    {
+        "id": 4006,
+        "date": "27/09/2026",
+        "customer_id": 1020,
+        "customer": {
+            "id": 1020,
+            "name": "Naomi Kapofi",
+            "email": "naomi.kapofi@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3018,
+                "name": "canned beans 410g",
+                "price": 14.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3045,
+                "name": "sony wh-ch720n headphones",
+                "price": 1999.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3024,
+                "name": "frozen pizza 400g",
+                "price": 69.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3042,
+                "name": "playstation 5 console",
+                "price": 11999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2006,
+            "type": "credit card",
+            "amount": 26169.93,
+            "status": "approved",
+            "date": "27/09/2026",
+            "reference": "1703423667127684"
+        }
+    },
+    {
+        "id": 4007,
+        "date": "19/09/2026",
+        "customer_id": 1004,
+        "customer": {
+            "id": 1004,
+            "name": "Ndapewa Iyambo",
+            "email": "ndapewa.iyambo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3055,
+                "name": "hp 27-inch monitor",
+                "price": 3299.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3035,
+                "name": "lenovo ideapad laptop",
+                "price": 9999.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3017,
+                "name": "spaghetti 500g",
+                "price": 19.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3045,
+                "name": "sony wh-ch720n headphones",
+                "price": 1999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2007,
+            "type": "mobile money",
+            "amount": 30659.91,
+            "status": "approved",
+            "date": "19/09/2026",
+            "reference": "0812122330"
+        }
+    },
+    {
+        "id": 4008,
+        "date": "19/09/2026",
+        "customer_id": 1015,
+        "customer": {
+            "id": 1015,
+            "name": "Thomas Ekandjo",
+            "email": "thomas.ekandjo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3018,
+                "name": "canned beans 410g",
+                "price": 14.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2008,
+            "type": "credit card",
+            "amount": 44.98,
+            "status": "approved",
+            "date": "19/09/2026",
+            "reference": "5995289078666617"
+        }
+    },
+    {
+        "id": 4009,
+        "date": "03/10/2026",
+        "customer_id": 1020,
+        "customer": {
+            "id": 1020,
+            "name": "Naomi Kapofi",
+            "email": "naomi.kapofi@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3012,
+                "name": "apples 1.5kg",
+                "price": 44.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2009,
+            "type": "mobile money",
+            "amount": 44.99,
+            "status": "approved",
+            "date": "03/10/2026",
+            "reference": "0817215901"
+        }
+    },
+    {
+        "id": 4010,
+        "date": "27/09/2026",
+        "customer_id": 1000,
+        "customer": {
+            "id": 1000,
+            "name": "Adolfo Diaz",
+            "email": "adolfo.diaz@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3034,
+                "name": "apple ipad 9th gen tablet",
+                "price": 8999.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3006,
+                "name": "eggs tray of 30",
+                "price": 74.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2010,
+            "type": "credit card",
+            "amount": 16402.46,
+            "status": "approved",
+            "date": "27/09/2026",
+            "reference": "3962459571177774"
+        }
+    },
+    {
+        "id": 4011,
+        "date": "11/10/2026",
+        "customer_id": 1002,
+        "customer": {
+            "id": 1002,
+            "name": "Maria Nghipandulwa",
+            "email": "maria.nghipandulwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3047,
+                "name": "apple airpods wireless earbuds",
+                "price": 2999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2011,
+            "type": "mobile money",
+            "amount": 5399.98,
+            "status": "approved",
+            "date": "11/10/2026",
+            "reference": "0817280385"
+        }
+    },
+    {
+        "id": 4012,
+        "date": "23/09/2026",
+        "customer_id": 1004,
+        "customer": {
+            "id": 1004,
+            "name": "Ndapewa Iyambo",
+            "email": "ndapewa.iyambo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3048,
+                "name": "logitech g502 gaming mouse",
+                "price": 1199.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2012,
+            "type": "credit card",
+            "amount": 3599.97,
+            "status": "approved",
+            "date": "23/09/2026",
+            "reference": "1485253888539336"
+        }
+    },
+    {
+        "id": 4013,
+        "date": "20/09/2026",
+        "customer_id": 1023,
+        "customer": {
+            "id": 1023,
+            "name": "Simon Ndjamba",
+            "email": "simon.ndjamba@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3012,
+                "name": "apples 1.5kg",
+                "price": 44.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3033,
+                "name": "samsung galaxy tab a9 tablet",
+                "price": 2999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2013,
+            "type": "mobile money",
+            "amount": 6089.96,
+            "status": "approved",
+            "date": "20/09/2026",
+            "reference": "0810474395"
+        }
+    },
+    {
+        "id": 4014,
+        "date": "20/09/2026",
+        "customer_id": 1014,
+        "customer": {
+            "id": 1014,
+            "name": "Emilia Shaanika",
+            "email": "emilia.shaanika@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3023,
+                "name": "orange juice 1l",
+                "price": 29.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3005,
+                "name": "sugar 2kg",
+                "price": 39.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3014,
+                "name": "tomatoes 1kg",
+                "price": 27.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2014,
+            "type": "credit card",
+            "amount": 125.96,
+            "status": "approved",
+            "date": "20/09/2026",
+            "reference": "3799075116372651"
+        }
+    },
+    {
+        "id": 4015,
+        "date": "15/09/2026",
+        "customer_id": 1025,
+        "customer": {
+            "id": 1025,
+            "name": "Kaleb Shivute",
+            "email": "kaleb.shivute@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3029,
+                "name": "samsung galaxy a56 smartphone",
+                "price": 7499.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3025,
+                "name": "plain yoghurt 1kg",
+                "price": 44.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3047,
+                "name": "apple airpods wireless earbuds",
+                "price": 2999.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3005,
+                "name": "sugar 2kg",
+                "price": 39.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2015,
+            "type": "credit card",
+            "amount": 25584.94,
+            "status": "approved",
+            "date": "15/09/2026",
+            "reference": "9729975288200182"
+        }
+    },
+    {
+        "id": 4016,
+        "date": "18/09/2026",
+        "customer_id": 1013,
+        "customer": {
+            "id": 1013,
+            "name": "Samuel Kuutondokwa",
+            "email": "samuel.kuutondokwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3052,
+                "name": "canon pixma printer",
+                "price": 1999.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3055,
+                "name": "hp 27-inch monitor",
+                "price": 3299.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2016,
+            "type": "credit card",
+            "amount": 5299.98,
+            "status": "approved",
+            "date": "18/09/2026",
+            "reference": "4839548620579868"
+        }
+    },
+    {
+        "id": 4017,
+        "date": "28/09/2026",
+        "customer_id": 1004,
+        "customer": {
+            "id": 1004,
+            "name": "Ndapewa Iyambo",
+            "email": "ndapewa.iyambo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3033,
+                "name": "samsung galaxy tab a9 tablet",
+                "price": 2999.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3032,
+                "name": "huawei nova 12 smartphone",
+                "price": 5199.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2017,
+            "type": "mobile money",
+            "amount": 13399.97,
+            "status": "approved",
+            "date": "28/09/2026",
+            "reference": "0819022279"
+        }
+    },
+    {
+        "id": 4018,
+        "date": "12/10/2026",
+        "customer_id": 1023,
+        "customer": {
+            "id": 1023,
+            "name": "Simon Ndjamba",
+            "email": "simon.ndjamba@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3020,
+                "name": "peanut butter 400g",
+                "price": 39.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2018,
+            "type": "mobile money",
+            "amount": 119.97,
+            "status": "approved",
+            "date": "12/10/2026",
+            "reference": "0818718033"
+        }
+    },
+    {
+        "id": 4019,
+        "date": "14/10/2026",
+        "customer_id": 1008,
+        "customer": {
+            "id": 1008,
+            "name": "Anna Kandjii",
+            "email": "anna.kandjii@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3032,
+                "name": "huawei nova 12 smartphone",
+                "price": 5199.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2019,
+            "type": "mobile money",
+            "amount": 10399.98,
+            "status": "approved",
+            "date": "14/10/2026",
+            "reference": "0811759898"
+        }
+    },
+    {
+        "id": 4020,
+        "date": "23/09/2026",
+        "customer_id": 1006,
+        "customer": {
+            "id": 1006,
+            "name": "Selma Nangolo",
+            "email": "selma.nangolo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3028,
+                "name": "samsung galaxy a16 smartphone",
+                "price": 3499.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3032,
+                "name": "huawei nova 12 smartphone",
+                "price": 5199.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3034,
+                "name": "apple ipad 9th gen tablet",
+                "price": 8999.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2020,
+            "type": "mobile money",
+            "amount": 31599.94,
+            "status": "approved",
+            "date": "23/09/2026",
+            "reference": "0814837261"
+        }
+    },
+    {
+        "id": 4021,
+        "date": "01/10/2026",
+        "customer_id": 1012,
+        "customer": {
+            "id": 1012,
+            "name": "Lahja Ndeshi",
+            "email": "lahja.ndeshi@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3004,
+                "name": "cooking oil 750ml",
+                "price": 42.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3042,
+                "name": "playstation 5 console",
+                "price": 11999.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3015,
+                "name": "potatoes 2kg",
+                "price": 34.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2021,
+            "type": "mobile money",
+            "amount": 12120.96,
+            "status": "approved",
+            "date": "01/10/2026",
+            "reference": "0811252427"
+        }
+    },
+    {
+        "id": 4022,
+        "date": "22/09/2026",
+        "customer_id": 1007,
+        "customer": {
+            "id": 1007,
+            "name": "Petrus Shilongo",
+            "email": "petrus.shilongo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3025,
+                "name": "plain yoghurt 1kg",
+                "price": 44.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2022,
+            "type": "credit card",
+            "amount": 89.98,
+            "status": "approved",
+            "date": "22/09/2026",
+            "reference": "3268656355150587"
+        }
+    },
+    {
+        "id": 4023,
+        "date": "23/09/2026",
+        "customer_id": 1014,
+        "customer": {
+            "id": 1014,
+            "name": "Emilia Shaanika",
+            "email": "emilia.shaanika@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3024,
+                "name": "frozen pizza 400g",
+                "price": 69.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2023,
+            "type": "mobile money",
+            "amount": 139.98,
+            "status": "approved",
+            "date": "23/09/2026",
+            "reference": "0814811311"
+        }
+    },
+    {
+        "id": 4024,
+        "date": "07/10/2026",
+        "customer_id": 1008,
+        "customer": {
+            "id": 1008,
+            "name": "Anna Kandjii",
+            "email": "anna.kandjii@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3049,
+                "name": "logitech wireless keyboard",
+                "price": 699.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2024,
+            "type": "credit card",
+            "amount": 699.99,
+            "status": "approved",
+            "date": "07/10/2026",
+            "reference": "2646288975140261"
+        }
+    },
+    {
+        "id": 4025,
+        "date": "15/09/2026",
+        "customer_id": 1008,
+        "customer": {
+            "id": 1008,
+            "name": "Anna Kandjii",
+            "email": "anna.kandjii@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3040,
+                "name": "lg 50-inch 4k television",
+                "price": 7999.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2025,
+            "type": "mobile money",
+            "amount": 7999.99,
+            "status": "approved",
+            "date": "15/09/2026",
+            "reference": "0811931417"
+        }
+    },
+    {
+        "id": 4026,
+        "date": "05/10/2026",
+        "customer_id": 1000,
+        "customer": {
+            "id": 1000,
+            "name": "Adolfo Diaz",
+            "email": "adolfo.diaz@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3017,
+                "name": "spaghetti 500g",
+                "price": 19.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3039,
+                "name": "samsung 55-inch 4k television",
+                "price": 8999.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3008,
+                "name": "butter 500g",
+                "price": 69.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3002,
+                "name": "white rice 2kg",
+                "price": 54.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2026,
+            "type": "mobile money",
+            "amount": 24466.43,
+            "status": "approved",
+            "date": "05/10/2026",
+            "reference": "0814023448"
+        }
+    },
+    {
+        "id": 4027,
+        "date": "09/10/2026",
+        "customer_id": 1024,
+        "customer": {
+            "id": 1024,
+            "name": "Beata Mutonga",
+            "email": "beata.mutonga@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3028,
+                "name": "samsung galaxy a16 smartphone",
+                "price": 3499.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3032,
+                "name": "huawei nova 12 smartphone",
+                "price": 5199.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3043,
+                "name": "xbox series s console",
+                "price": 6999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2027,
+            "type": "mobile money",
+            "amount": 27899.95,
+            "status": "approved",
+            "date": "09/10/2026",
+            "reference": "0814000883"
+        }
+    },
+    {
+        "id": 4028,
+        "date": "30/09/2026",
+        "customer_id": 1016,
+        "customer": {
+            "id": 1016,
+            "name": "Hileni Nakale",
+            "email": "hileni.nakale@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3028,
+                "name": "samsung galaxy a16 smartphone",
+                "price": 3499.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3006,
+                "name": "eggs tray of 30",
+                "price": 74.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2028,
+            "type": "credit card",
+            "amount": 9652.45,
+            "status": "approved",
+            "date": "30/09/2026",
+            "reference": "7868433532650201"
+        }
+    },
+    {
+        "id": 4029,
+        "date": "22/09/2026",
+        "customer_id": 1020,
+        "customer": {
+            "id": 1020,
+            "name": "Naomi Kapofi",
+            "email": "naomi.kapofi@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3027,
+                "name": "biltong 200g",
+                "price": 109.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3010,
+                "name": "beef mince 1kg",
+                "price": 99.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3003,
+                "name": "maize meal 5kg",
+                "price": 79.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2029,
+            "type": "mobile money",
+            "amount": 569.94,
+            "status": "approved",
+            "date": "22/09/2026",
+            "reference": "0814934072"
+        }
+    },
+    {
+        "id": 4030,
+        "date": "07/10/2026",
+        "customer_id": 1005,
+        "customer": {
+            "id": 1005,
+            "name": "Tuyeni Hamutenya",
+            "email": "tuyeni.hamutenya@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3000,
+                "name": "fresh milk 2l",
+                "price": 32.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3023,
+                "name": "orange juice 1l",
+                "price": 29.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3021,
+                "name": "ground coffee 200g",
+                "price": 84.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2030,
+            "type": "mobile money",
+            "amount": 246.54,
+            "status": "approved",
+            "date": "07/10/2026",
+            "reference": "0814352056"
+        }
+    },
+    {
+        "id": 4033,
+        "date": "24/09/2026",
+        "customer_id": 1026,
+        "customer": {
+            "id": 1026,
+            "name": "Lydia Nashilongo",
+            "email": "lydia.nashilongo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3005,
+                "name": "sugar 2kg",
+                "price": 39.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3001,
+                "name": "brown bread 700g",
+                "price": 18.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2033,
+            "type": "mobile money",
+            "amount": 58.98,
+            "status": "approved",
+            "date": "24/09/2026",
+            "reference": "0811678008"
+        }
+    },
+    {
+        "id": 4034,
+        "date": "08/10/2026",
+        "customer_id": 1021,
+        "customer": {
+            "id": 1021,
+            "name": "Paulus Namupala",
+            "email": "paulus.namupala@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3000,
+                "name": "fresh milk 2l",
+                "price": 32.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3029,
+                "name": "samsung galaxy a56 smartphone",
+                "price": 7499.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3051,
+                "name": "tp-link wi-fi router",
+                "price": 999.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2034,
+            "type": "credit card",
+            "amount": 23066.01,
+            "status": "approved",
+            "date": "08/10/2026",
+            "reference": "8174143337761740"
+        }
+    },
+    {
+        "id": 4035,
+        "date": "25/09/2026",
+        "customer_id": 1019,
+        "customer": {
+            "id": 1019,
+            "name": "Isaac Hoaeb",
+            "email": "isaac.hoaeb@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3004,
+                "name": "cooking oil 750ml",
+                "price": 42.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3038,
+                "name": "asus vivobook laptop",
+                "price": 10999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2035,
+            "type": "credit card",
+            "amount": 22042.97,
+            "status": "approved",
+            "date": "25/09/2026",
+            "reference": "4992070741374847"
+        }
+    },
+    {
+        "id": 4036,
+        "date": "01/10/2026",
+        "customer_id": 1014,
+        "customer": {
+            "id": 1014,
+            "name": "Emilia Shaanika",
+            "email": "emilia.shaanika@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3035,
+                "name": "lenovo ideapad laptop",
+                "price": 9999.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2036,
+            "type": "credit card",
+            "amount": 9999.99,
+            "status": "approved",
+            "date": "01/10/2026",
+            "reference": "1704718746331912"
+        }
+    },
+    {
+        "id": 4038,
+        "date": "15/09/2026",
+        "customer_id": 1000,
+        "customer": {
+            "id": 1000,
+            "name": "Adolfo Diaz",
+            "email": "adolfo.diaz@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3043,
+                "name": "xbox series s console",
+                "price": 6999.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3028,
+                "name": "samsung galaxy a16 smartphone",
+                "price": 3499.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3025,
+                "name": "plain yoghurt 1kg",
+                "price": 44.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3019,
+                "name": "tuna in oil 170g",
+                "price": 24.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2038,
+            "type": "credit card",
+            "amount": 22175.93,
+            "status": "approved",
+            "date": "15/09/2026",
+            "reference": "1505561304451669"
+        }
+    },
+    {
+        "id": 4039,
+        "date": "04/10/2026",
+        "customer_id": 1002,
+        "customer": {
+            "id": 1002,
+            "name": "Maria Nghipandulwa",
+            "email": "maria.nghipandulwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3048,
+                "name": "logitech g502 gaming mouse",
+                "price": 1199.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3017,
+                "name": "spaghetti 500g",
+                "price": 19.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3054,
+                "name": "sandisk 128gb flash drive",
+                "price": 249.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3003,
+                "name": "maize meal 5kg",
+                "price": 79.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2039,
+            "type": "credit card",
+            "amount": 2618.94,
+            "status": "approved",
+            "date": "04/10/2026",
+            "reference": "2346853560688310"
+        }
+    },
+    {
+        "id": 4040,
+        "date": "02/10/2026",
+        "customer_id": 1023,
+        "customer": {
+            "id": 1023,
+            "name": "Simon Ndjamba",
+            "email": "simon.ndjamba@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3039,
+                "name": "samsung 55-inch 4k television",
+                "price": 8999.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3048,
+                "name": "logitech g502 gaming mouse",
+                "price": 1199.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3008,
+                "name": "butter 500g",
+                "price": 69.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3041,
+                "name": "hisense 43-inch television",
+                "price": 5499.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2040,
+            "type": "credit card",
+            "amount": 36969.92,
+            "status": "approved",
+            "date": "02/10/2026",
+            "reference": "7654444634786122"
+        }
+    },
+    {
+        "id": 4041,
+        "date": "09/10/2026",
+        "customer_id": 1002,
+        "customer": {
+            "id": 1002,
+            "name": "Maria Nghipandulwa",
+            "email": "maria.nghipandulwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3035,
+                "name": "lenovo ideapad laptop",
+                "price": 9999.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3014,
+                "name": "tomatoes 1kg",
+                "price": 27.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3028,
+                "name": "samsung galaxy a16 smartphone",
+                "price": 3499.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3021,
+                "name": "ground coffee 200g",
+                "price": 84.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2041,
+            "type": "credit card",
+            "amount": 21429.83,
+            "status": "approved",
+            "date": "09/10/2026",
+            "reference": "1258153549306668"
+        }
+    },
+    {
+        "id": 4042,
+        "date": "03/10/2026",
+        "customer_id": 1006,
+        "customer": {
+            "id": 1006,
+            "name": "Selma Nangolo",
+            "email": "selma.nangolo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3021,
+                "name": "ground coffee 200g",
+                "price": 84.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3048,
+                "name": "logitech g502 gaming mouse",
+                "price": 1199.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3003,
+                "name": "maize meal 5kg",
+                "price": 79.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2042,
+            "type": "mobile money",
+            "amount": 2809.93,
+            "status": "approved",
+            "date": "03/10/2026",
+            "reference": "0812883143"
+        }
+    },
+    {
+        "id": 4043,
+        "date": "03/10/2026",
+        "customer_id": 1012,
+        "customer": {
+            "id": 1012,
+            "name": "Lahja Ndeshi",
+            "email": "lahja.ndeshi@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3027,
+                "name": "biltong 200g",
+                "price": 109.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3019,
+                "name": "tuna in oil 170g",
+                "price": 24.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3054,
+                "name": "sandisk 128gb flash drive",
+                "price": 249.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3052,
+                "name": "canon pixma printer",
+                "price": 1999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2043,
+            "type": "mobile money",
+            "amount": 4384.95,
+            "status": "approved",
+            "date": "03/10/2026",
+            "reference": "0817970168"
+        }
+    },
+    {
+        "id": 4044,
+        "date": "01/10/2026",
+        "customer_id": 1027,
+        "customer": {
+            "id": 1027,
+            "name": "Frans Tjipetekera",
+            "email": "frans.tjipetekera@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3015,
+                "name": "potatoes 2kg",
+                "price": 34.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3050,
+                "name": "anker 20000mah power bank",
+                "price": 899.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3006,
+                "name": "eggs tray of 30",
+                "price": 74.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3014,
+                "name": "tomatoes 1kg",
+                "price": 27.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2044,
+            "type": "credit card",
+            "amount": 1243.92,
+            "status": "approved",
+            "date": "01/10/2026",
+            "reference": "7180023904248611"
+        }
+    },
+    {
+        "id": 4045,
+        "date": "06/10/2026",
+        "customer_id": 1002,
+        "customer": {
+            "id": 1002,
+            "name": "Maria Nghipandulwa",
+            "email": "maria.nghipandulwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3024,
+                "name": "frozen pizza 400g",
+                "price": 69.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2045,
+            "type": "credit card",
+            "amount": 143.96,
+            "status": "approved",
+            "date": "06/10/2026",
+            "reference": "8474537838306400"
+        }
+    },
+    {
+        "id": 4046,
+        "date": "30/09/2026",
+        "customer_id": 1006,
+        "customer": {
+            "id": 1006,
+            "name": "Selma Nangolo",
+            "email": "selma.nangolo@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3005,
+                "name": "sugar 2kg",
+                "price": 39.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3014,
+                "name": "tomatoes 1kg",
+                "price": 27.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3042,
+                "name": "playstation 5 console",
+                "price": 11999.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2046,
+            "type": "credit card",
+            "amount": 24167.93,
+            "status": "approved",
+            "date": "30/09/2026",
+            "reference": "5656304813734337"
+        }
+    },
+    {
+        "id": 4048,
+        "date": "12/10/2026",
+        "customer_id": 1023,
+        "customer": {
+            "id": 1023,
+            "name": "Simon Ndjamba",
+            "email": "simon.ndjamba@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3010,
+                "name": "beef mince 1kg",
+                "price": 99.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2048,
+            "type": "credit card",
+            "amount": 199.98,
+            "status": "approved",
+            "date": "12/10/2026",
+            "reference": "8704655721014156"
+        }
+    },
+    {
+        "id": 4049,
+        "date": "28/09/2026",
+        "customer_id": 1003,
+        "customer": {
+            "id": 1003,
+            "name": "Johannes Amukoto",
+            "email": "johannes.amukoto@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3024,
+                "name": "frozen pizza 400g",
+                "price": 69.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3022,
+                "name": "rooibos tea 80 bags",
+                "price": 49.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2049,
+            "type": "credit card",
+            "amount": 239.96,
+            "status": "approved",
+            "date": "28/09/2026",
+            "reference": "7358735570636060"
+        }
+    },
+    {
+        "id": 4050,
+        "date": "13/10/2026",
+        "customer_id": 1014,
+        "customer": {
+            "id": 1014,
+            "name": "Emilia Shaanika",
+            "email": "emilia.shaanika@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2050,
+            "type": "mobile money",
+            "amount": 29.99,
+            "status": "approved",
+            "date": "13/10/2026",
+            "reference": "0819554590"
+        }
+    },
+    {
+        "id": 4051,
+        "date": "22/09/2026",
+        "customer_id": 1008,
+        "customer": {
+            "id": 1008,
+            "name": "Anna Kandjii",
+            "email": "anna.kandjii@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3017,
+                "name": "spaghetti 500g",
+                "price": 19.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3019,
+                "name": "tuna in oil 170g",
+                "price": 24.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3000,
+                "name": "fresh milk 2l",
+                "price": 32.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2051,
+            "type": "mobile money",
+            "amount": 210.52,
+            "status": "approved",
+            "date": "22/09/2026",
+            "reference": "0811031776"
+        }
+    },
+    {
+        "id": 4052,
+        "date": "07/10/2026",
+        "customer_id": 1025,
+        "customer": {
+            "id": 1025,
+            "name": "Kaleb Shivute",
+            "email": "kaleb.shivute@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3052,
+                "name": "canon pixma printer",
+                "price": 1999.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3031,
+                "name": "xiaomi redmi note 14 smartphone",
+                "price": 4299.99,
+                "quantity": 3
+            },
+            {
+                "product_id": 3008,
+                "name": "butter 500g",
+                "price": 69.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3011,
+                "name": "bananas 1kg",
+                "price": 22.99,
+                "quantity": 3
+            }
+        ],
+        "payment": {
+            "id": 2052,
+            "type": "mobile money",
+            "amount": 15108.91,
+            "status": "approved",
+            "date": "07/10/2026",
+            "reference": "0819355759"
+        }
+    },
+    {
+        "id": 4053,
+        "date": "29/09/2026",
+        "customer_id": 1002,
+        "customer": {
+            "id": 1002,
+            "name": "Maria Nghipandulwa",
+            "email": "maria.nghipandulwa@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3025,
+                "name": "plain yoghurt 1kg",
+                "price": 44.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3048,
+                "name": "logitech g502 gaming mouse",
+                "price": 1199.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2053,
+            "type": "credit card",
+            "amount": 1120.48,
+            "status": "approved",
+            "date": "29/09/2026",
+            "reference": "0788526114913167"
+        }
+    },
+    {
+        "id": 4054,
+        "date": "01/10/2026",
+        "customer_id": 1022,
+        "customer": {
+            "id": 1022,
+            "name": "Ruth Amadhila",
+            "email": "ruth.amadhila@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3014,
+                "name": "tomatoes 1kg",
+                "price": 27.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3008,
+                "name": "butter 500g",
+                "price": 69.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2054,
+            "type": "mobile money",
+            "amount": 195.96,
+            "status": "approved",
+            "date": "01/10/2026",
+            "reference": "0813814449"
+        }
+    },
+    {
+        "id": 4055,
+        "date": "04/10/2026",
+        "customer_id": 1008,
+        "customer": {
+            "id": 1008,
+            "name": "Anna Kandjii",
+            "email": "anna.kandjii@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3047,
+                "name": "apple airpods wireless earbuds",
+                "price": 2999.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3016,
+                "name": "onions 2kg",
+                "price": 29.99,
+                "quantity": 1
+            },
+            {
+                "product_id": 3012,
+                "name": "apples 1.5kg",
+                "price": 44.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2055,
+            "type": "credit card",
+            "amount": 5467.46,
+            "status": "approved",
+            "date": "04/10/2026",
+            "reference": "2493516438831701"
+        }
+    },
+    {
+        "id": 4056,
+        "date": "30/09/2026",
+        "customer_id": 1000,
+        "customer": {
+            "id": 1000,
+            "name": "Adolfo Diaz",
+            "email": "adolfo.diaz@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3053,
+                "name": "samsung 25w usb-c charger",
+                "price": 299.99,
+                "quantity": 2
+            },
+            {
+                "product_id": 3028,
+                "name": "samsung galaxy a16 smartphone",
+                "price": 3499.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2056,
+            "type": "mobile money",
+            "amount": 3689.97,
+            "status": "approved",
+            "date": "30/09/2026",
+            "reference": "0813103993"
+        }
+    },
+    {
+        "id": 4058,
+        "date": "11/10/2026",
+        "customer_id": 1010,
+        "customer": {
+            "id": 1010,
+            "name": "Rauna Haufiku",
+            "email": "rauna.haufiku@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3013,
+                "name": "oranges 2kg",
+                "price": 39.99,
+                "quantity": 2
+            }
+        ],
+        "payment": {
+            "id": 2058,
+            "type": "credit card",
+            "amount": 71.98,
+            "status": "approved",
+            "date": "11/10/2026",
+            "reference": "3056529413078716"
+        }
+    },
+    {
+        "id": 4059,
+        "date": "15/10/2026",
+        "customer_id": 1000,
+        "customer": {
+            "id": 1000,
+            "name": "Adolfo Diaz",
+            "email": "adolfo.diaz@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3055,
+                "name": "hp 27-inch monitor",
+                "price": 3299.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2059,
+            "type": "credit card",
+            "amount": 2969.99,
+            "status": "approved",
+            "date": "15/10/2026",
+            "reference": "1234567890987654"
+        }
+    },
+    {
+        "id": 4061,
+        "date": "15/10/2026",
+        "customer_id": 1009,
+        "customer": {
+            "id": 1009,
+            "name": "David Uushona",
+            "email": "david.uushona@example.com"
+        },
+        "items": [
+            {
+                "product_id": 3007,
+                "name": "cheddar cheese 500g",
+                "price": 89.99,
+                "quantity": 1
+            }
+        ],
+        "payment": {
+            "id": 2061,
+            "type": "mobile money",
+            "amount": 89.99,
+            "status": "approved",
+            "date": "15/10/2026",
+            "reference": "0816377228"
+        }
+    }
+]
