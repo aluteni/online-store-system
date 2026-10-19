@@ -12,7 +12,7 @@ BrightMart tracks products, customers and orders. It prevents overselling, valid
 - **Stock control:** an order is refused if there is not enough stock, so products are never oversold.
 - **Loyalty discount:** a customer with more than 6 orders gets 10% off every new order.
 - **Cancel last order:** the most recent completed order can be cancelled. Stock is restored and a refund is calculated: a 5% fee for credit cards, no fee for mobile money.
-- **Sales report:** total revenue, number of orders, average order value, best-selling product, and a table of all orders. The report can be saved to `sales_report.txt`.
+- **Sales report:** total revenue, number of orders, average order value, best-selling product, and a table of all orders. The report can be saved to `sales_report.json`.
 - **Saving:** products, customers and orders are saved to JSON files, either with the "Save all data" button or when you close the window.
 
 ## Payment rules
